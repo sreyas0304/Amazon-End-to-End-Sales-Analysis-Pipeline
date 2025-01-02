@@ -51,5 +51,4 @@ Scripts for populating dimension and fact tables
 
 - Implement incremental loading for efficiency
 - Add data quality checks and error handling
-- Develop visualization layer for sales analytics
 
