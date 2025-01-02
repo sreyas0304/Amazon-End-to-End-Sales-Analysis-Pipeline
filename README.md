@@ -42,14 +42,14 @@ Scripts for populating dimension and fact tables
 
 # Key Features:
 
-Handling of multiple data formats (CSV, Parquet, JSON)
-Currency conversion for global sales analysis
-De-duplication of data
-Dimensional modeling for efficient querying
+- Handling of multiple data formats (CSV, Parquet, JSON)
+- Currency conversion for global sales analysis
+- De-duplication of data
+- Dimensional modeling for efficient querying
 
 # Future Enhancements:
 
-Implement incremental loading for efficiency
-Add data quality checks and error handling
-Develop visualization layer for sales analytics
+- Implement incremental loading for efficiency
+- Add data quality checks and error handling
+- Develop visualization layer for sales analytics
 
