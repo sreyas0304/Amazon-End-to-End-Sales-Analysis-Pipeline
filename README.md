@@ -8,9 +8,9 @@ SQL, Snowflake, Snowpark Python API, AWS S3 bucket & IAM.
 # Project Overview:
 
 The ETL pipeline consists of the following key steps:
-Data Loading: Mobile sales data from three regions is loaded into Snowflake's internal stage.
-Data Curation: Using Snowpark Data Frame API, the data is transformed and cleansed.
-Dimensional Modeling: The curated data is organized into a star schema for efficient analysis.
+- Data Loading: Mobile sales data from three regions is loaded into Snowflake's internal stage.
+- Data Curation: Using Snowpark Data Frame API, the data is transformed and cleansed.
+- Dimensional Modeling: The curated data is organized into a star schema for efficient analysis.
 
 # Data Flow Diagram:
 
